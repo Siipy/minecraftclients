@@ -1,7 +1,7 @@
 h1{
-    font-size: 100px;
+    font-size: 30px;
     font-family: 'Courier New', Courier, monospace;
-    color: black;
+    color: rgb(21, 184, 187);
     text-align: center;
 }
 ::backdrop{
@@ -15,6 +15,7 @@ p{
 }
 button{
     text-align: center;
+    align-items: center;
 }
 body{
     color: white;
