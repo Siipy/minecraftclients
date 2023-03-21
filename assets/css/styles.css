@@ -1,0 +1,27 @@
+h1{
+    font-size: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    text-align: center;
+}
+::backdrop{
+    color: blueviolet;
+}
+p{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    text-align: left;
+}
+button{
+    text-align: center;
+}
+body{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(../assets/images/bak.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
