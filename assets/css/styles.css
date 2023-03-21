@@ -20,9 +20,6 @@ button{
 body{
     color: white;
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url(../assets/images/bak.png);
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+    background:url('https://siipy.github.io/minecraftclients/assets/img/tenacity-gui.png');
+    background-size:cover;
 }
