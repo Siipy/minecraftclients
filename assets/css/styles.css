@@ -5,7 +5,7 @@ h1{
     text-align: center;
 }
 ::backdrop{
-    color: blueviolet;
+    color: rgb(7, 145, 236);
 }
 p{
     font-size: 50px;
