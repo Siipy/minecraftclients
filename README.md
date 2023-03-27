@@ -1,2 +1,2 @@
 # minecraftclients
-Dylan's collection of Minecraft clients
+Siipy's collection of Minecraft clients
