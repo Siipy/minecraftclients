@@ -1,2 +1,10 @@
 # minecraftclients
-Siipy's collection of Minecraft clients
+Siipy & Nxyy's collection of Minecraft clients
+
+
+
+
+
+
+
+Discord server coming soon (idk man)
