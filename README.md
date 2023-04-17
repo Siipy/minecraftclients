@@ -1,5 +1,6 @@
 # minecraftclients
-Siipy & Nxyy's collection of Minecraft clients
+Siipy + Nxyy + Lace
+Collection of Minecraft clients
 
 
 
@@ -7,4 +8,4 @@ Siipy & Nxyy's collection of Minecraft clients
 
 
 
-Discord server coming soon (idk man)
+Discord server coming soon (idk)
