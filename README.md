@@ -8,4 +8,4 @@ Collection of Minecraft clients
 
 
 
-Discord server coming soon (idk)
+Discord server: https://discord.gg/5ZNF4aMAe
